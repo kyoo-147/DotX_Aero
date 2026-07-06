@@ -1,7 +1,3 @@
-# Git LFS replacement for large media files
-demo/Aero_Finally_FF.mp4
-*.mp4
-
 # Python cache and environment files
 __pycache__/
 *.pyc
