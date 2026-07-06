@@ -1,5 +1,8 @@
 # DotX Aero: Hệ Thống Trợ Lý Giọng Nói Thông Minh & Điều Khiển Thiết Bị IoT
 
+> [!WARNING]
+> **Thông báo Lưu trữ (Archival Notice)**: Dự án này đã được triển khai 2 năm trước và hiện đã dừng hoạt động. Mọi nỗ lực hiện tại của tôi chỉ nhằm mục đích lưu trữ, mọi công nghệ có thể đã lỗi thời, chỉ nên dùng làm nguồn tham khảo.
+
 DotX Aero là một giải pháp bảo mật toàn diện, tích hợp điều khiển nhà thông minh bằng giọng nói. Hệ thống kết hợp khả năng xử lý âm thanh ở biên (Edge), suy luận mô hình ngôn ngữ lớn (LLM) cục bộ và điều khiển phần cứng IoT thông qua giao thức MQTT. Dự án được thiết kế để chạy hoàn toàn trên phần cứng tiêu dùng cục bộ nhằm đảm bảo quyền riêng tư dữ liệu, độ ổn định cao và độ trễ tối thiểu.
 
 ---

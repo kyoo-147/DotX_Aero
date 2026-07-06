@@ -1,5 +1,8 @@
 # DotX Aero: Smart Home Voice Assistant & IoT Control System
 
+> [!WARNING]
+> **Archival Notice**: This project was developed 2 years ago and is currently inactive. All current efforts are solely for archival purposes. The technologies used may be outdated, and this repository is intended to be used as a reference only.
+
 DotX Aero is a secure, end-to-end, intelligent smart home voice assistant system. It integrates modern edge voice processing, local Large Language Model (LLM) inference, and IoT hardware control via MQTT. The system is designed to run completely on consumer-grade local hardware for privacy, reliability, and low latency.
 
 ---
