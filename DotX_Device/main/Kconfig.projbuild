@@ -1,0 +1,10 @@
+menu "Example Configuration"
+
+    config BROKER_URI
+        string "Broker URL"
+        default "wss://broker.emqx.io:8084/mqtt"
+        help
+            URL of an mqtt broker which this example connects to.
+            Use wss:// for secure WebSocket connection to work with iOS ATS.
+
+endmenu
