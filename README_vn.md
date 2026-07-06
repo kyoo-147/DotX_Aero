@@ -10,6 +10,8 @@ DotX Aero là một giải pháp bảo mật toàn diện, tích hợp điều k
 ## 📺 Video Demo
 GitHub hỗ trợ phát video trực tiếp trong các tệp README. Bạn có thể xem video chạy thử (demo) bên dưới hoặc nhấn vào liên kết bên dưới để xem trực tiếp trên repository:
 
+https://github.com/user-attachments/assets/63424c11-2eb4-4345-a65c-9f951d6440b0
+
 <div align="center">
   <video src="./demo/Aero_Finally_FF.mp4" width="100%" max-width="800px" controls></video>
   <br/>
