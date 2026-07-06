@@ -10,6 +10,10 @@ DotX Aero is a secure, end-to-end, intelligent smart home voice assistant system
 ## 📺 Demo Video
 GitHub supports direct video playback in README files. You can view the demo video below or click the link to watch it in the repository:
 
+
+https://github.com/user-attachments/assets/63424c11-2eb4-4345-a65c-9f951d6440b0
+
+
 <div align="center">
   <video src="./demo/Aero_Finally_FF.mp4" width="100%" max-width="800px" controls></video>
   <br/>
